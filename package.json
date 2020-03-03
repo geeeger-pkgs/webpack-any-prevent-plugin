@@ -1,0 +1,29 @@
+{
+  "name": "@geeeger/webpack-any-prevent-plugin",
+  "version": "1.0.0",
+  "description": "Prevent any file from landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": {
+    "name": "geeeger",
+    "email": "lph1988520@sina.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeeger/webpack-any-prevent-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/geeeger/webpack-any-prevent-plugin/issues"
+  },
+  "homepage": "https://github.com/geeeger/webpack-any-prevent-plugin#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "*"
+  }
+}
