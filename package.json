@@ -25,5 +25,8 @@
   "license": "MIT",
   "peerDependencies": {
     "webpack": "*"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
