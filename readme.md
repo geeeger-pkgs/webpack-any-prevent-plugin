@@ -1,3 +1,7 @@
+# Deprecated
+
+Webpack 5 now has official solution
+
 # Usage
 
 ```js
